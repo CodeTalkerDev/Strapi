@@ -1,0 +1,36 @@
+{
+  "collectionName": "components_page_strategy_s",
+  "info": {
+    "displayName": "Strategy ",
+    "icon": "lightbulb",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "ProblemSolutionDescription": {
+      "type": "richtext"
+    },
+    "OtherBeautifulThingsDescription": {
+      "type": "string"
+    },
+    "OtherBeautifulThingsURL": {
+      "type": "string"
+    },
+    "keywords": {
+      "type": "component",
+      "repeatable": true,
+      "component": "list.keywords"
+    },
+    "strategy": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "elites",
+  "info": {
+    "singularName": "elite",
+    "pluralName": "elites",
+    "displayName": "Elite"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "surname": {
+      "type": "string"
+    },
+    "company": {
+      "type": "string"
+    },
+    "city": {
+      "type": "string"
+    },
+    "phone_number": {
+      "type": "biginteger"
+    },
+    "email": {
+      "type": "email"
+    }
+  }
+}

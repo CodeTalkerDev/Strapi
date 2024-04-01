@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_nav_navs",
+  "info": {
+    "displayName": "Nav",
+    "icon": "filter"
+  },
+  "options": {},
+  "attributes": {
+    "Progetti": {
+      "type": "string"
+    },
+    "Filosofia": {
+      "type": "string"
+    },
+    "Blog": {
+      "type": "string"
+    },
+    "Contatti": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_contact_page_addresses",
+  "info": {
+    "displayName": "Address",
+    "icon": "pinMap"
+  },
+  "options": {},
+  "attributes": {
+    "Address": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "location": {
+      "type": "string"
+    },
+    "phone_number": {
+      "type": "string"
+    },
+    "addressURL": {
+      "type": "string"
+    }
+  }
+}

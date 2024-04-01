@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_page_contattis",
+  "info": {
+    "displayName": "Contatti",
+    "icon": "exit",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "IntriguingQuestion": {
+      "type": "string"
+    },
+    "ContactURL": {
+      "type": "string"
+    },
+    "Contatti": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

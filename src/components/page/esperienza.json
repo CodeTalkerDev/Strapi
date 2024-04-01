@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_page_esperienzas",
+  "info": {
+    "displayName": "Esperienza",
+    "icon": "manyToMany",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Esperienza": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "stickyTexts": {
+      "type": "component",
+      "repeatable": true,
+      "component": "list.sticky-text"
+    },
+    "text": {
+      "type": "string"
+    }
+  }
+}

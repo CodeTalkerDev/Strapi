@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_list_keys",
+  "info": {
+    "displayName": "Keys",
+    "icon": "paint"
+  },
+  "options": {},
+  "attributes": {
+    "word": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_list_sticky_texts",
+  "info": {
+    "displayName": "stickyText",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    }
+  }
+}

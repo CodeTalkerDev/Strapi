@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_social_media_links_social_media_links",
+  "info": {
+    "displayName": "Social-media-links",
+    "icon": "dashboard"
+  },
+  "options": {},
+  "attributes": {
+    "instagram": {
+      "type": "string"
+    },
+    "facebook": {
+      "type": "string"
+    },
+    "linkedin": {
+      "type": "string"
+    }
+  }
+}

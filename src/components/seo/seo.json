@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_seo_seos",
+  "info": {
+    "displayName": "SEO",
+    "icon": "earth",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "PageTitle": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "Keywords": {
+      "type": "text"
+    }
+  }
+}

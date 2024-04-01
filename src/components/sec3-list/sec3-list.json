@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_sec3_list_sec3_lists",
+  "info": {
+    "displayName": "sec3_list",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "item_name": {
+      "type": "string"
+    }
+  }
+}
